@@ -1,2 +1,2 @@
 # nvim-config
-nvim-config
+my neo vim confim.
